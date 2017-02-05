@@ -1,0 +1,9 @@
+.\objects\term_gpio.o: Drivers\Terminal\term_gpio.c
+.\objects\term_gpio.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\objects\term_gpio.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\term_gpio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\term_gpio.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\term_gpio.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\term_gpio.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\objects\term_gpio.o: .\Includes\stdutils.h
+.\objects\term_gpio.o: Drivers\Terminal\term_gpio.h
